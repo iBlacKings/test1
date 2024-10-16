@@ -44,5 +44,7 @@ if __name__ == "__main__":
     #           see your code on the files that you never need to modifed but you do it idk the reason and also the code of the team that work on that so your team and the other
     #           need to decide which code is the better and finally the best way to avoid this is decide how is going to change something more communication  
     
+    #To merge something of other branch to the main we do the same git merge "branch" and thats it
+    
     print("Hello world")
     
