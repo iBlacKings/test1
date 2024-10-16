@@ -40,6 +40,9 @@ if __name__ == "__main__":
     #           finish the word on this branch so you need to save it but make a commit is not the best way cuz you commit an incomplete thing so that 
     #           is a bad pratice and your team will not know what to do so you can save it local so no one will know about it so then you can continue with the development 
     
+    #conflicts resolution so imagine that you modifed the code of other branch and you try to merge it so you will get a conflict cuz that code you didn't need to modifed so will 
+    #           see your code on the files that you never need to modifed but you do it idk the reason and also the code of the team that work on that so your team and the other
+    #           need to decide which code is the better and finally the best way to avoid this is decide how is going to change something more communication  
     
     print("Hello world")
     
