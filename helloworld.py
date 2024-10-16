@@ -18,7 +18,8 @@ if __name__ == "__main__":
                                         # --mixed(is too similar to the soft but here the files aren't in the stage so we can modifed but we
                                         # need to add it to the stage with git add. )
     
-    #git tag
+    #git tag = with this we can say here something important happend in this commit more commun is used when we have a importan realse like v1
+    
     
     
     print("Hello world")
